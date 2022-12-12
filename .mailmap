@@ -1,7 +1,7 @@
 # This file allows mapping several author and committer email addresses and
 # names to a single canonical one for `git shortlog`, `git log --author`,
 # or `git check-mailmap`.
-#
+#sadfasdf
 # For example, if you commit as `random.person@example.com` but sometimes use
 # "Rañdom Person" and sometimes "Random Person" as name and you want the former
 # to be your canonical name, add
